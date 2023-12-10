@@ -4,7 +4,7 @@
 
 
 **Acesso ao código**: 
-* Uma cópia do código está disposta neste repositório
+* Uma cópia do código está disposta neste repositório (PreProcessamento_MVP_PUC.ipynb)
 * Ou poderá ser acessado via link:
   https://colab.research.google.com/drive/1TlS20FuytDsWKFGZgagVv6fAI6cAUYuX?usp=sharing
 
